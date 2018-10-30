@@ -513,7 +513,7 @@ body {
   }
 
   .l-block_4__item--decorated::after {
-    background: url("../new_files/arrow.png") no-repeat 0 0 transparent;
+    background: url("../images/icons/arrow.png") no-repeat 0 0 transparent;
     content: "";
     height: 11px;
     left: auto;
@@ -580,12 +580,12 @@ body {
   }
 
   .l-block_4__bg::before {
-    background: url("../new_files/l-block_4__bg_left_decor.png") no-repeat 100% 100% transparent;
+    background: url("../images/backgrounds/l-block_4__bg_left_decor.png") no-repeat 100% 100% transparent;
     left: 0;
   }
 
   .l-block_4__bg::after {
-    background: url("../new_files/l-block_4__bg_right_decor.png") no-repeat 100% 100% transparent;
+    background: url("../images/backgrounds/l-block_4__bg_right_decor.png") no-repeat 100% 100% transparent;
     left: auto;
     right: 0;
   }
@@ -594,7 +594,7 @@ body {
 /********************l-block_4***********************/
 /**********************quotes************************/
 .l-quotes {
-  background: url("../new_files/quotes_decor.png") no-repeat 32px 24px transparent;
+  background: url("../images/icons/quotes_decor.png") no-repeat 32px 24px transparent;
   border: 1px solid #d4d4d4;
   border-radius: 6px;
   -webkit-box-sizing: border-box;
@@ -850,11 +850,11 @@ body {
 }
 
 .l-form .l-form__input--icon_user {
-  background: url("../new_files/input_icon_user.png") no-repeat 18px 50% transparent;
+  background: url("../images/icons/input_icon_user.png") no-repeat 18px 50% transparent;
 }
 
 .l-form .l-form__input--icon_phone {
-  background: url("../new_files/input_icon_phone.png") no-repeat 18px 50% transparent;
+  background: url("../images/icons/input_icon_phone.png") no-repeat 18px 50% transparent;
 }
 
 .l-form .l-form__input.error,
@@ -970,7 +970,7 @@ body {
 }
 
 .l-form .l-form__button--iconed::after {
-  background: url("../new_files/button_icon_calc.png") no-repeat 0 0 transparent;
+  background: url("../images/icons/button_icon_calc.png") no-repeat 0 0 transparent;
   content: "";
   height: 35px;
   left: auto;
@@ -985,7 +985,7 @@ body {
 }
 
 .l-form__bg {
-  background: url('../new_files/form_bg.jpg') repeat 0 0 #000;
+  background: url('../images/backgrounds/form_bg.jpg') repeat 0 0 #000;
   position: absolute;
   top: 0;
   left: 50%;
@@ -1007,7 +1007,7 @@ body {
   }
 
   .l-form__bg--decorated::before {
-    background: url("../new_files/form_decor_left.png") no-repeat 0 0 transparent;
+    background: url("../images/backgrounds/form_decor_left.png") no-repeat 0 0 transparent;
     bottom: -5px;
     height: 234px;
     left: 50px;
@@ -1016,7 +1016,7 @@ body {
   }
 
   .l-form__bg--decorated::after {
-    background: url("../new_files/form_decor_right.png") no-repeat 0 0 transparent;
+    background: url("../images/backgrounds/form_decor_right.png") no-repeat 0 0 transparent;
     bottom: 5px;
     height: 321px;
     left: auto;
