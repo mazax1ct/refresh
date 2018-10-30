@@ -1,0 +1,6 @@
+#rightform{float:right;width:300px;border:2px solid #444444;padding:15px;margin-left:60px;margin-top:0px;display:block;position:relative;left:-80pt;}
+.rightzg{text-align:center;font-size:16px;font-weight:bold;margin-bottom:30px;color:rgb(98, 156, 69);}
+#rname{margin-right:30px;margin-left:30px;width:80%;border:2px solid #444444;padding:3px;height:29px;margin-bottom:21px;color:#444444;}
+#rphon{margin-right:30px;margin-left:30px;width:80%;border:2px solid #444444;padding:3px;height:29px;margin-bottom:30px;color:#444444;}
+#rsend{margin-top:0px;color:white;border:0px none;line-height:20px;float:right;padding:3px 30px;border-radius:6px;background:#24b24b;}
+.c_success{text-align:center;}
